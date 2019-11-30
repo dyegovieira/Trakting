@@ -1,0 +1,6 @@
+framework module Pods_Trakting {
+  umbrella header "Pods-Trakting-umbrella.h"
+
+  export *
+  module * { export * }
+}

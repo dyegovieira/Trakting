@@ -1,0 +1,6 @@
+framework module Pods_Trakting_TraktingUITests {
+  umbrella header "Pods-Trakting-TraktingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
